@@ -1,0 +1,6 @@
+llama-index-core
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+torch>=2.0.0
+sentence-transformers>=2.2.2
+transformers>=4.36.0
